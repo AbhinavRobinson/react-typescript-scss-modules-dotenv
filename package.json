@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-scss-modules-dotenv",
+  "author": "Abhinav Robinson",
   "version": "1.0.0",
-  "private": true,
   "dependencies": {
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
