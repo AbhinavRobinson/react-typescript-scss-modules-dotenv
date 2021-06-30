@@ -1,0 +1,13 @@
+@import "./index.scss";
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  background-color: $background;
+
+  color: $primary;
+  font-size: $heading;
+}
